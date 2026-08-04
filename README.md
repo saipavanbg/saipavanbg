@@ -25,7 +25,6 @@
 - 📍 Hyderabad, India
 
 ---
-
 ## 🛠️ Skills
 
 ### Programming
@@ -35,8 +34,11 @@
 ### Machine Learning
 - Scikit-Learn
 - TensorFlow
+- Keras
 - Deep Learning
 - CNN
+- LSTM
+- Time Series Forecasting
 
 ### Generative AI
 - LangChain
@@ -44,73 +46,111 @@
 - RAG
 - Hugging Face
 - Prompt Engineering
-- OpenAI APIs
+- OpenAI API
 - Groq
+- OpenRouter
 
 ### Backend
 - FastAPI
 - Flask
 
-### Database
+### Databases
 - MySQL
 - SQLite
+- ChromaDB
 
 ### Tools
 - Git
 - GitHub
 - VS Code
 - Jupyter Notebook
-
+- Streamlit
 ---
 
 # 🚀 Projects
 
 ## 🍽️ AI Food Recommendation System
-- LangGraph Workflow
-- FastAPI
-- Spoonacular API
-- Geoapify API
-- Groq LLM
-- SQLite
 
-Features:
-- Personalized food recommendations
-- Nutrition analysis
-- Restaurant suggestions
-- Recipe recommendations
+**Tech Stack:** LangGraph, FastAPI, Groq LLM, Spoonacular API, Geoapify API, SQLite
+
+- Personalized meal recommendations based on user preferences
+- Recipe search with nutrition analysis
+- Restaurant recommendations using Geoapify
+- LangGraph workflow orchestration
+- REST APIs with FastAPI
+- Stores user recommendation history
 
 ---
 
 ## 🎵 AI Music Assistant
 
-Features:
+**Tech Stack:** Python, Streamlit, Groq/OpenRouter, YouTube API
+
 - AI-powered music recommendations
-- Song search
-- Playlist suggestions
+- Song and artist search
+- Playlist recommendations
 - Ad-free recommendation experience
+- Interactive chatbot interface
 
 ---
 
 ## ✈️ AI Travel Planner
 
-Features:
-- Multi-Agent AI
-- CrewAI
-- Flight Search
-- Hotel Recommendations
-- Travel Itinerary Generation
+**Tech Stack:** CrewAI, FastAPI, MySQL, SERP API, Hugging Face
+
+- Multi-agent AI travel planning
+- Flight and hotel recommendations
+- Tourist attraction suggestions
+- Day-wise itinerary generation
+- Stores travel history in MySQL
 
 ---
 
 ## 🤖 FastMCP AI Assistant
 
-Features:
-- Model Context Protocol (MCP)
-- FastMCP
-- OpenRouter
-- SQLite
-- Tool Calling
+**Tech Stack:** FastMCP, OpenRouter, SQLite, Python
 
+- Model Context Protocol (MCP) implementation
+- AI tool calling architecture
+- Reminder management
+- Web search integration
+- Local database support
+
+---
+
+## 🩺 Medical RAG Chatbot
+
+**Tech Stack:** LangChain, Hugging Face, ChromaDB, Streamlit
+
+- Retrieval-Augmented Generation (RAG) system
+- Medical document question answering
+- Semantic search using vector embeddings
+- Conversational AI interface
+- Accurate responses from medical knowledge base
+
+---
+
+## 🖼️ CIFAR-10 Image Classification
+
+**Tech Stack:** Python, TensorFlow, Keras, CNN
+
+- Built a Convolutional Neural Network (CNN)
+- Classified images into 10 categories
+- Data preprocessing and augmentation
+- Model evaluation and prediction
+- Interactive Streamlit deployment
+
+---
+
+## 📈 Airline Passenger Forecasting (LSTM)
+
+**Tech Stack:** Python, TensorFlow, Keras, LSTM, Pandas
+
+- Time series forecasting using LSTM
+- Data preprocessing and normalization
+- Predicted future passenger counts
+- Model performance evaluation
+- Visualization of actual vs predicted values
 ---
 
 ## 📊 GitHub Stats
