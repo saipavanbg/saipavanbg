@@ -1,156 +1,50 @@
 # Hi 👋, I'm BOGGARAPU SAI PAVAN
 
-### 🚀 Aspiring AI/ML Engineer | Python Developer | Generative AI Enthusiast
-
-🎓 B.Tech in Computer Science and Engineering
-
-💻 Passionate about Artificial Intelligence, Machine Learning, Deep Learning, NLP, RAG Systems, LangGraph, and FastAPI.
-
-🌱 Currently learning
-- Generative AI
-- LangGraph
-- MCP (Model Context Protocol)
-- FastAPI
-- Multi-Agent AI Systems
+### 🚀 AI/ML Engineer | Python Developer | Generative AI Enthusiast
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working on AI & Generative AI projects
-- 🌱 Learning LLMs, RAG, LangGraph and AI Agents
-- 💡 Interested in Machine Learning and AI-powered Applications
-- 💬 Ask me about Python, Machine Learning, SQL, FastAPI and Generative AI
-- 📫 Email: **pavansai07818@gmail.com**
+- 🎓 B.Tech in Computer Science and Engineering
+- 💻 Passionate about Artificial Intelligence, Machine Learning, Deep Learning, NLP, Generative AI, and Backend Development.
 - 📍 Hyderabad, India
+- 📧 Email: **pavansai07818@gmail.com**
 
 ---
+
 ## 🛠️ Skills
 
-### Programming
-- Python
-- SQL
+| Programming | Machine Learning | Generative AI |
+|--------------|------------------|---------------|
+| Python | Scikit-Learn | LangChain |
+| SQL | TensorFlow | LangGraph |
+| | Keras | RAG |
+| | CNN | Hugging Face |
+| | LSTM | Prompt Engineering |
+| | Deep Learning | Groq |
+| | | OpenRouter |
 
-### Machine Learning
-- Scikit-Learn
-- TensorFlow
-- Keras
-- Deep Learning
-- CNN
-- LSTM
-- Time Series Forecasting
-
-### Generative AI
-- LangChain
-- LangGraph
-- RAG
-- Hugging Face
-- Prompt Engineering
-- OpenAI API
-- Groq
-- OpenRouter
-
-### Backend
-- FastAPI
-- Flask
-
-### Databases
-- MySQL
-- SQLite
-- ChromaDB
-
-### Tools
-- Git
-- GitHub
-- VS Code
-- Jupyter Notebook
-- Streamlit
----
-
-# 🚀 Projects
-
-## 🍽️ AI Food Recommendation System
-
-**Tech Stack:** LangGraph, FastAPI, Groq LLM, Spoonacular API, Geoapify API, SQLite
-
-- Personalized meal recommendations based on user preferences
-- Recipe search with nutrition analysis
-- Restaurant recommendations using Geoapify
-- LangGraph workflow orchestration
-- REST APIs with FastAPI
-- Stores user recommendation history
+| Backend | Databases | Tools |
+|----------|-----------|-------|
+| FastAPI | MySQL | Git |
+| Flask | SQLite | GitHub |
+| | ChromaDB | VS Code |
+| | | Streamlit |
+| | | Jupyter Notebook |
 
 ---
 
-## 🎵 AI Music Assistant
+## 🚀 Projects
 
-**Tech Stack:** Python, Streamlit, MusicBrainz API, Groq/OpenRouter
+- 🍽️ AI Food Recommendation System
+- 🎵 AI Music Assistant
+- ✈️ AI Travel Planner
+- 🤖 FastMCP AI Assistant
+- 🩺 Medical RAG Chatbot
+- 🖼️ CIFAR-10 Image Classification
+- 📈 Airline Passenger Forecasting (LSTM)
 
-- AI-powered music recommendation system
-- Search songs, artists, albums, and music metadata using the MusicBrainz API
-- Personalized music recommendations based on user preferences
-- Ad-free recommendation experience
-- Interactive chatbot-style interface built with Streamlit
-- Fast and user-friendly music discovery
----
-
-## ✈️ AI Travel Planner
-
-**Tech Stack:** CrewAI, FastAPI, MySQL, SERP API, Hugging Face
-
-- Multi-agent AI travel planning
-- Flight and hotel recommendations
-- Tourist attraction suggestions
-- Day-wise itinerary generation
-- Stores travel history in MySQL
-
----
-
-## 🤖 FastMCP AI Assistant
-
-**Tech Stack:** FastMCP, OpenRouter, SQLite, Python
-
-- Model Context Protocol (MCP) implementation
-- AI tool calling architecture
-- Reminder management
-- Web search integration
-- Local database support
-
----
-
-## 🩺 Medical RAG Chatbot
-
-**Tech Stack:** LangChain, Hugging Face, ChromaDB, Streamlit
-
-- Retrieval-Augmented Generation (RAG) system
-- Medical document question answering
-- Semantic search using vector embeddings
-- Conversational AI interface
-- Accurate responses from medical knowledge base
-
----
-
-## 🖼️ CIFAR-10 Image Classification
-
-**Tech Stack:** Python, TensorFlow, Keras, CNN
-
-- Built a Convolutional Neural Network (CNN)
-- Classified images into 10 categories
-- Data preprocessing and augmentation
-- Model evaluation and prediction
-- Interactive Streamlit deployment
-
----
-
-## 📈 Airline Passenger Forecasting (LSTM)
-
-**Tech Stack:** Python, TensorFlow, Keras, LSTM, Pandas
-
-- Time series forecasting using LSTM
-- Data preprocessing and normalization
-- Predicted future passenger counts
-- Model performance evaluation
-- Visualization of actual vs predicted values
 ---
 
 ## 📊 GitHub Stats
@@ -163,10 +57,6 @@
 
 ## 🤝 Connect with Me
 
-- LinkedIn:https://www.linkedin.com/in/sai-pavan122/
-- GitHub: https://github.com/saipavanbg
-- Email: pavansai07818@gmail.com
-
----
-
-⭐ Thank you for visiting my profile!
+- 💼 LinkedIn:https://www.linkedin.com/in/sai-pavan122/
+- 💻 GitHub: https://github.com/saipavanbg
+- 📧 Email: pavansai07818@gmail.com
