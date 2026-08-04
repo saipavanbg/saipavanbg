@@ -84,14 +84,14 @@
 
 ## 🎵 AI Music Assistant
 
-**Tech Stack:** Python, Streamlit, Groq/OpenRouter, YouTube API
+**Tech Stack:** Python, Streamlit, MusicBrainz API, Groq/OpenRouter
 
-- AI-powered music recommendations
-- Song and artist search
-- Playlist recommendations
+- AI-powered music recommendation system
+- Search songs, artists, albums, and music metadata using the MusicBrainz API
+- Personalized music recommendations based on user preferences
 - Ad-free recommendation experience
-- Interactive chatbot interface
-
+- Interactive chatbot-style interface built with Streamlit
+- Fast and user-friendly music discovery
 ---
 
 ## ✈️ AI Travel Planner
